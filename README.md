@@ -3,9 +3,9 @@
 
 ## Exploratory Data Analysis
 
-- [![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/20px-Tableau_Logo.png)](https://public.tableau.com/app/profile/sujay.bahumik/viz/AirbnbListingsNewYorkCity/Home#1)
-- [![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/SQLQuery_Airbnb_NewYork.sql)
-- [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb)
+- [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/sujay.bahumik/viz/AirbnbListingsNewYorkCity/Home#1)
+- [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/SQLQuery_Airbnb_NewYork.sql)
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb)
 
 ---
 
@@ -34,9 +34,9 @@
 
 ### Tech Stack
 
-- ![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/20px-Microsoft_Excel_2013-2019_logo.svg.png) **Excel**: Data exploration and preliminary analysis.
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) **SQL (SQL Server Management Studio)**: For querying and manipulating the data.
-- ![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/20px-Tableau_Logo.png) **Tableau**: Data visualization and dashboard creation.
-- ![Figma](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/20px-Figma-logo.svg.png) **Figma**: Used for designing dashboard layouts and user interfaces.
-- ![Mapbox](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mapbox_logo_2019.svg/20px-Mapbox_logo_2019.svg.png) **Mapbox**: For creating interactive maps used in the dashboard.
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**: (pandas, seaborn, matplotlib) For data manipulation, analysis, and visualizing correlations.
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white) **Excel**: Data exploration and preliminary analysis.
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white) **SQL (SQL Server Management Studio)**: For querying and manipulating the data.
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) **Tableau**: Data visualization and dashboard creation.
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white) **Figma**: Used for designing dashboard layouts and user interfaces.
+- ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=Mapbox&logoColor=white) **Mapbox**: For creating interactive maps used in the dashboard.
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**: (pandas, seaborn, matplotlib) For data manipulation, analysis, and visualizing correlations.
