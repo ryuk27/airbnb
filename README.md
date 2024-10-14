@@ -1,35 +1,42 @@
 ![](screenshots/nyc_airbnb.jpg)
 <br/>
 
-Exploratory Data Analysis<br/>
-[Tableau](https://public.tableau.com/app/profile/sujay.bahumik/viz/AirbnbListingsNewYorkCity/Home#1) <br/>
-[SQL](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/SQLQuery_Airbnb_NewYork.sql) <br/>
-[Python](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb) <br/>
+## Exploratory Data Analysis
 
-### Viewing the data<br/>
-* Querying in SSMS (SQL Server Management Studio) using self joins, CTEs, procedures, group by to view the data required<br/>
-* Data Cleaning
-* Data Analysis (Q/A)
-* Data Transformation for dashboard visualization<br/>
+- [![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/60px-Tableau_Logo.png)](https://public.tableau.com/app/profile/sujay.bahumik/viz/AirbnbListingsNewYorkCity/Home#1)
+- [![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/SQLQuery_Airbnb_NewYork.sql)
+- [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb)
 
-### Dashboard<br/>
-* Overview: listings, accomodations available, average price($), average rating, and total reviews info per borough<br/>
+---
 
-![](screenshots/Screenshot1.png)
-* Filtering: Giving the options to find the desired location and attaching the links to the website for more details<br/>
+### Viewing the Data
+- Querying in **SSMS (SQL Server Management Studio)** using self-joins, CTEs, procedures, and group by to view the required data.
+- Data Cleaning: Handling null values, duplicates, and ensuring consistency in data types.
+- Data Analysis: Answering key business questions like listing trends, price analysis, and location-based popularity.
+- Data Transformation: Preparing data for dashboard visualization in Tableau.
 
-![](screenshots/Screenshot2.png)
-* Key Insights: Displaying the insights on the boroughs, room types, prices, reviews, and hosts<br/>
+---
 
-![](screenshots/Screenshot3.png)
-* Superhosts v Non Superhosts: Figuring out the edge of superhosts<br/>
+### Dashboard
+- **Overview**: Listings, available accommodations, average price ($), average rating, and total reviews info per borough.
+  ![](screenshots/Screenshot1.png)
 
-![](screenshots/Screenshot4.png)<br/>
+- **Filtering**: Options to find desired locations and links to the Airbnb website for more detailed listings.
+  ![](screenshots/Screenshot2.png)
 
-### Tech Stack<br/>
-* Excel
-* SQL (SQL Server Management Studio)
-* Tableau
-* Figma
-* Mapbox
-* Python (pandas, seaborn, matplotlib)
+- **Key Insights**: Insights on boroughs, room types, pricing trends, reviews, and host information.
+  ![](screenshots/Screenshot3.png)
+
+- **Superhosts vs Non-Superhosts**: Analyzing the performance difference between superhosts and non-superhosts in terms of reviews, occupancy, and pricing.
+  ![](screenshots/Screenshot4.png)
+
+---
+
+### Tech Stack
+
+- ![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/40px-Microsoft_Excel_2013-2019_logo.svg.png) **Excel**: Data exploration and preliminary analysis.
+- ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) **SQL (SQL Server Management Studio)**: For querying and manipulating the data.
+- ![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/60px-Tableau_Logo.png) **Tableau**: Data visualization and dashboard creation.
+- ![Figma](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/40px-Figma-logo.svg.png) **Figma**: Used for designing dashboard layouts and user interfaces.
+- ![Mapbox](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mapbox_logo_2019.svg/40px-Mapbox_logo_2019.svg.png) **Mapbox**: For creating interactive maps used in the dashboard.
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**: (pandas, seaborn, matplotlib) For data manipulation, analysis, and visualizing correlations.
