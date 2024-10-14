@@ -3,7 +3,7 @@
 
 ## Exploratory Data Analysis
 
-- [![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/60px-Tableau_Logo.png)](https://public.tableau.com/app/profile/sujay.bahumik/viz/AirbnbListingsNewYorkCity/Home#1)
+- [![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/20px-Tableau_Logo.png)](https://public.tableau.com/app/profile/sujay.bahumik/viz/AirbnbListingsNewYorkCity/Home#1)
 - [![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/SQLQuery_Airbnb_NewYork.sql)
 - [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://github.com/s1dewalker/Airbnb-listings-NYC/blob/main/Airbnb%20correlation.ipynb)
 
@@ -34,9 +34,9 @@
 
 ### Tech Stack
 
-- ![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/40px-Microsoft_Excel_2013-2019_logo.svg.png) **Excel**: Data exploration and preliminary analysis.
+- ![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/20px-Microsoft_Excel_2013-2019_logo.svg.png) **Excel**: Data exploration and preliminary analysis.
 - ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) **SQL (SQL Server Management Studio)**: For querying and manipulating the data.
-- ![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/60px-Tableau_Logo.png) **Tableau**: Data visualization and dashboard creation.
-- ![Figma](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/40px-Figma-logo.svg.png) **Figma**: Used for designing dashboard layouts and user interfaces.
-- ![Mapbox](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mapbox_logo_2019.svg/40px-Mapbox_logo_2019.svg.png) **Mapbox**: For creating interactive maps used in the dashboard.
+- ![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/20px-Tableau_Logo.png) **Tableau**: Data visualization and dashboard creation.
+- ![Figma](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/20px-Figma-logo.svg.png) **Figma**: Used for designing dashboard layouts and user interfaces.
+- ![Mapbox](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mapbox_logo_2019.svg/20px-Mapbox_logo_2019.svg.png) **Mapbox**: For creating interactive maps used in the dashboard.
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**: (pandas, seaborn, matplotlib) For data manipulation, analysis, and visualizing correlations.
